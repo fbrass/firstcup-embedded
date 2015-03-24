@@ -1,0 +1,10 @@
+/target/
+/.idea/
+/node_modules/
+/firstcup-war/target/
+/dukes-age/target/
+*.iml
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+npm-debug.log
