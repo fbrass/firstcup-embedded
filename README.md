@@ -12,12 +12,14 @@ The project was to get the First Cup example into an embedded environment with m
 - ...
 
 ## Requirements
-- [Java 7]
-- [Maven]
+- Java 7
+- Maven
+- 
 
 ## Running
 - mvn clean package run
 - mvn embedded-glassfish:run
+
 it didnt work the first time cause derby needed to be configured. RUN IT AGAIN!!!
 
 TADA WORKS :)
