@@ -14,7 +14,6 @@ The project was to get the First Cup example into an embedded environment with m
 ## Requirements
 - Java 7
 - Maven
-- 
 
 ## Running
 - mvn clean package run
